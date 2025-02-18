@@ -15,6 +15,7 @@ export default function Lab1() {
             </ul>
             <h2>Links</h2>
             <ul>
+                 <Link to="/Kambaz/">Back to Kambaz Application</Link>
                 <li><a href="/Kambaz/*" id="wd-link-kambaz">Back to Kambaz Application</a></li>
                 <li><a href="https://github.com/annsthomas/kambaz-react-web-app/tree/main/src/Labs/Lab1" target="_blank" rel="noopener noreferrer">Source Code Repository 1</a></li>
                 <li><a href="https://github.com/annsthomas/kambaz-react-web-app/tree/main/src/Labs/Lab2" target="_blank" rel="noopener noreferrer">Source Code Repository 2</a></li>
